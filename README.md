@@ -7,7 +7,7 @@ You may also need to create an Alpaca account  to access the API-enabled trading
 
 Note: feel free to use my Finnhub and Finviz API keys (already in code) although it is recommended to create your own.
 
-Technologies used:
+Libraries used:
  - Pandas to store data
  - PRAW to scrape Reddit
  - Requests to scrape Finnhub
