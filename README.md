@@ -6,3 +6,11 @@ Follow the first part of this guide: https://towardsdatascience.com/scraping-red
 You may also need to create an Alpaca account  to access the API-enabled trading features.
 
 Note: feel free to use my Finnhub and Finviz API keys (already in code) although it is recommended to create your own.
+
+Technologies used:
+ - Pandas to store data
+ - PRAW to scrape Reddit
+ - Requests to scrape Finnhub
+ - UrlLib to scrape Finviz
+ - NLTK's Vader to analyse the sentiment of articles
+ - Alpace Trade API to execute orders based on signals
