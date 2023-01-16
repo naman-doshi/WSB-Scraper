@@ -13,4 +13,4 @@ Libraries used:
  - Requests to scrape Finnhub
  - UrlLib to scrape Finviz
  - NLTK's Vader to analyse the sentiment of articles
- - Alpace Trade API to execute orders based on signals
+ - Alpaca Trade API to execute orders based on signals
